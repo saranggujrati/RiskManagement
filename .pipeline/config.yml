@@ -8,7 +8,7 @@
 # This is a YAML-file. YAML is an indentation-sensitive file format. Please make sure to properly indent changes to it. 
 ### 
 
-### General project setup test test
+### General project setup test test text
 ---
  general:
     pipeline: "sap-cloud-sdk" 
